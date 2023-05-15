@@ -1,0 +1,4 @@
+Name: cpp-jwt
+Description: Json web token for C++
+Version: 1.2.0
+Cflags: -I/media/tienvh/Workspace/1.AIView/AIVEX/source/compiler/libs_ubuntu/lib_cpp-jwt-1.2.0/include

@@ -1,0 +1,4 @@
+Name: nlohmann_json
+Description: JSON for Modern C++
+Version: 3.9.1
+Cflags: -I/media/tienvh/Workspace/1.AIView/AIVEX/xcompiler/ubuntu_libs/lib_json-3.9.0/include
